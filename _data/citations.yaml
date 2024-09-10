@@ -16,6 +16,7 @@
   date: '2023-07-06'
   link: https://doi.org/gvm64d
   orcid: 0000-0002-3141-9571
+  constanza-garcia-keller: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41386-022-01287-4
@@ -31,6 +32,7 @@
   date: '2022-02-10'
   link: https://doi.org/gvm64f
   orcid: 0000-0002-3141-9571
+  constanza-garcia-keller: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/adb.13151
@@ -49,6 +51,7 @@
   date: '2022-02-22'
   link: https://doi.org/gvm64g
   orcid: 0000-0002-3141-9571
+  constanza-garcia-keller: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.bbr.2021.113517
@@ -64,6 +67,7 @@
   date: '2021-10-01'
   link: https://doi.org/gvm64h
   orcid: 0000-0002-3141-9571
+  constanza-garcia-keller: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.21203/rs.3.rs-864738/v1
@@ -82,6 +86,7 @@
   date: '2021-09-27'
   link: https://doi.org/gvm64j
   orcid: 0000-0002-3141-9571
+  constanza-garcia-keller: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41386-021-01074-7
@@ -100,6 +105,7 @@
   date: '2021-07-05'
   link: https://doi.org/gvm64k
   orcid: 0000-0002-3141-9571
+  constanza-garcia-keller: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1523/JNEUROSCI.2666-19.2020
@@ -124,6 +130,7 @@
   date: '2020-10-13'
   link: https://doi.org/gvm64m
   orcid: 0000-0002-3141-9571
+  constanza-garcia-keller: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/adb.12797
@@ -143,6 +150,7 @@
   date: '2019-07-22'
   link: https://doi.org/gqfqqz
   orcid: 0000-0002-3141-9571
+  constanza-garcia-keller: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/adb.12798
@@ -159,6 +167,7 @@
   date: '2019-07-07'
   link: https://doi.org/gvm64n
   orcid: 0000-0002-3141-9571
+  constanza-garcia-keller: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1523/JNEUROSCI.2822-18.2018
@@ -178,6 +187,7 @@
   date: '2019-01-08'
   link: https://doi.org/gppsjj
   orcid: 0000-0002-3141-9571
+  constanza-garcia-keller: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.biopsych.2018.04.016
@@ -197,5 +207,6 @@
   date: '2018-10-01'
   link: https://doi.org/gfb9vj
   orcid: 0000-0002-3141-9571
+  constanza-garcia-keller: true
   plugin: orcid.py
   file: orcid.yaml
