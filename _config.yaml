@@ -1,10 +1,11 @@
 # site properties and page defaults
-title: <b>CGK</b>lab
-subtitle: <b>STRESS & ADDICTION RESEARCH</b>
-description: The goal of the Garcia Keller laboratory is to identify the neurological mechanisms that underlie stress-induced vulnerability in the development of substance use disorders, and in doing so, rationally design pharmacotherapeutic treatments. The lab uses a preclinical rodent model to understand how an acute stressful event can lead to addiction, not only facilitating drug self-administration but also precipitating relapse.
-header: images/cgk_background.jpg
-footer: images/cgk_background.jpg
+title: CGKlab
+subtitle: STRESS & ADDICTION RESEARCH
+description: The goal of the CGKlab is to identify the neurological mechanisms that underlie stress-induced vulnerability in the development of substance use disorders, and in doing so, rationally design pharmacotherapeutic treatments. The lab uses a preclinical rodent model to understand how an acute stressful event can lead to addiction, not only facilitating drug self-administration but also precipitating relapse.
+header: images/background.jpg
+footer: images/background.jpg
 proofer: false
+logo-text: false
 
 # site social media and other links
 links:

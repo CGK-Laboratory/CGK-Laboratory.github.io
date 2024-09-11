@@ -3,19 +3,19 @@
 
 // colors
 [data-dark="false"] {
-  --primary: #0795d9;
-  --secondary: #7dd3fc;
-  --text: #000000;
+  --primary: #De5795;
+  --secondary: #81B920;
+  --text: #2A1B52;
   --background: #ffffff;
-  --background-alt: #fafafa;
+  --background-alt: #Dce4E2;
   --light-gray: #e0e0e0;
   --gray: #808080;
   --dark-gray: #404040;
   --overlay: #00000020;
 }
 [data-dark="true"] {
-  --primary: #0795d9;
-  --secondary: #075985;
+  --primary: #81B920;
+  --secondary: #De5795;
   --text: #ffffff;
   --background: #181818;
   --background-alt: #1c1c1c;
@@ -27,9 +27,9 @@
 
 :root {
   // font families
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
+  --title: "Titillium Web", sans-serif;
+  --heading: "Titillium Web", sans-serif;
+  --body: "Titillium Web", sans-serif;
   --code: "Roboto Mono", monospace;
 
   // font sizes
@@ -38,17 +38,17 @@
   --xxl: 1.6rem;
 
   // font weights
-  --thin: 200;
-  --regular: 400;
-  --semi-bold: 500;
-  --bold: 600;
+  --thin: 400;
+  --regular: 550;
+  --semi-bold: 650;
+  --bold: 800;
 
   // text line spacing
   --spacing: 2;
   --compact: 1.5;
 
   // effects
-  --rounded: 3px;
+  --rounded: 8px;
   --shadow: 0 0 10px 0 var(--overlay);
   --transition: 0.2s ease;
 }

@@ -1,9 +1,9 @@
 ---
 ---
 
-$logo-big: 80px;
-$logo: 40px;
-$big-padding: 100px;
+$logo-big: 150px;
+$logo: 100%;
+$big-padding: 40px;
 $collapse: 700px;
 $sticky: true;
 
@@ -44,6 +44,7 @@ header a {
 
 .logo > * {
   height: 100%;
+  width: 100%;
 }
 
 .title-text {
