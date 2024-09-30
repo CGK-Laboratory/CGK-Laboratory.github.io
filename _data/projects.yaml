@@ -1,7 +1,7 @@
 - title: CellSelect-3DMorph
   subtitle: MATLAB-based script that isolates and analyzes cells morphology from 3D images
   group: Featured
-  image: images/projects/cellselect.png
+  image: images/software/cellselect.png
   link: https://github.com/CGK-Laboratory/CellSelect-3DMorph
   description: CellSelect-3DMorph reconstructs cells from fluorescent pixel data, providing key parameters such as cell volume, territorial volume, ramification index, branch length, and the number of branches and endpoints. It builds on the 3D Morph code, adding the ability to exclude incomplete cells from analysis, ensuring accurate morphological calculations.
   repo: CGK-Laboratory/CellSelect-3DMorph
