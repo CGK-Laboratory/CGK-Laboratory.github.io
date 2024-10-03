@@ -1,6 +1,5 @@
 {document.addEventListener('DOMContentLoaded', function() {
 const canvas = document.getElementById('wormCanvas')
-canvas.style.border = '1px solid black';
 
 const ctx = canvas.getContext('2d');
 const gridSize = 8;

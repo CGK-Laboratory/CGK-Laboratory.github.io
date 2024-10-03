@@ -9,7 +9,7 @@ links:
   google-scholar: Pvxv7FAAAAAJ&hl=en
 ---
 
-Fernando Julian Chaure is the Research Software Engineer at the CGKlab, where he develops software for data analysis with a focus on creating reproducible and open tools. Fer holds a degree in Electronics Engineering from the University of Buenos Aires, Argentina, where he is currently a PhD candidate. He is particularly interested in automating repetitive tasks to reduce human error and has recently been exploring Julia programming and agent-based modeling.
+Fernando Julian Chaure is the Research Software Engineer at the CGKlab, where he develops software for data analysis with a focus on creating reproducible and open tools. Fer holds a degree in Electronics Engineering from the University of Buenos Aires, Argentina, where he is currently a PhD candidate. He is particularly interested in automating repetitive tasks to reduce human error and has recently been exploring conformal prediction and agent-based modeling.
 
 Throughout his career, Fer has developed multiple tools for analyzing electrophysiological signals and tracking neurons under non-stationary conditions. His passion for learning and applying new technologies is reflected in his work, which consistently aims to create useful and efficient solutions for research challenges.
 
@@ -27,6 +27,7 @@ Throughout his career, Fer has developed multiple tools for analyzing electrophy
     canvas {
         width:100px;
         height:100px;
+        border: 1px solid black;
     }
 </style>
 <figure>

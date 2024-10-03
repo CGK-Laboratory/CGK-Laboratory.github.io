@@ -59,6 +59,14 @@ nav:
   width="100%"
 %}
 
+{%
+  include figure.html
+  image="images/team/retreat_2024.png"
+  caption="Pharm & Tox Retreat 2024."
+  link="team"
+  width="100%"
+%}
+
 
 {% endcapture %}
 
