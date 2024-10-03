@@ -53,6 +53,6 @@ Given the current state of digital animal simulations, I'd have to settle for be
 
 I would be able to know the name of every dog I meet.
 
-##### And what would your alternative career be?
+##### What would your alternative career be?
 
 I would be the owner of a bookstore-cafe, filled with physics books but lacking customers. While it might be like being at home, it would be a disaster for business.
