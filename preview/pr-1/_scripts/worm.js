@@ -1,6 +1,8 @@
 {document.addEventListener('DOMContentLoaded', function() {
 const canvas = document.getElementById('wormCanvas')
-
+if (canvas === null) {
+    return; 
+  }
 const ctx = canvas.getContext('2d');
 const gridSize = 8;
 const cellSize = canvas.width / gridSize;
