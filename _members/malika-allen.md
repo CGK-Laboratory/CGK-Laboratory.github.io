@@ -3,6 +3,7 @@ name: Malika Allen
 image: images/profiles/malika_allen.jpeg
 role: phd
 links:
+  email: mallen@mcw.edu
   twitter: Malika_Allen
   orcid: 0009-0006-3033-6922
   linkedin: malika-allen
