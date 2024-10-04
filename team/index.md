@@ -49,7 +49,13 @@ nav:
   width="100%"
 %}
 
-
+{%
+  include figure.html
+  image="images/team/genius_a.jpg"
+  caption="Juan and Genius."
+  link="team"
+  width="100%"
+%}
 
 {%
   include figure.html
@@ -67,7 +73,30 @@ nav:
   width="100%"
 %}
 
+{%
+  include figure.html
+  image="images/team/posters_sfn_2023.jpg"
+  caption="SFN 2023 where 'standing by your work' is taken literally."
+  link="team"
+  width="100%"
+%}
+
+
+{%
+  include figure.html
+  image="images/team/genius_b.jpg"
+  caption="Malika and Genius.. Déjà vu?"
+  link="team"
+  width="100%"
+%}
+
+
+
 
 {% endcapture %}
 
+
+
+
 {% include grid.html content=content %}
+
