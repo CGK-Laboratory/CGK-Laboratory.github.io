@@ -31,12 +31,6 @@ The long-term goal of the Garcia Keller laboratory is to identify the neurologic
   col1=col1
   col2=col2
 %}
-
-Current ongoing projects aimed to:
-1. understand the neurocircuitry and cell-type specificity involved in stress and addiction using calcium imaging.
-2. study the role of the pentapartite synapse in stress and addiction, first focusing in microglia's role.
-3. study novel therapeutic treatments for PSTD and SUD targeting key genes/proteins of interest.
-
 {% include section.html %}
 
 
@@ -44,10 +38,13 @@ Current ongoing projects aimed to:
 
 {% capture text %}
 
+1. understand the neurocircuitry and cell-type specificity involved in stress and addiction using calcium imaging.
+2. study the role of the pentapartite synapse in stress and addiction, first focusing in microglia's role.
+3. study novel therapeutic treatments for PSTD and SUD targeting key genes/proteins of interest.
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="projects"
+  text="See our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -57,9 +54,9 @@ Current ongoing projects aimed to:
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="images/research.png"
+  link="projects"
+  title="Current ongoing projects"
   text=text
 %}
 
@@ -68,8 +65,8 @@ Current ongoing projects aimed to:
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="software"
+  text="Browse our software tools"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -79,9 +76,9 @@ Current ongoing projects aimed to:
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  image="images/software/cellselect.png"
+  link="software"
+  title="Our Software"
   flip=true
   style="bare"
   text=text
@@ -102,8 +99,10 @@ Current ongoing projects aimed to:
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team/team.jpg"
   link="team"
   title="Our Team"
   text=text
 %}
+
+

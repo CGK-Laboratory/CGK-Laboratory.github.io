@@ -1,0 +1,19 @@
+- id: doi:10.1111/adb.13286
+  title: "\u0394<sup>9</sup>\u2010Tetrahydrocannabinol self\u2010administration induces\
+    \ cell type\u2010specific adaptations in the nucleus accumbens core"
+  authors:
+  - Constanza Garcia-Keller
+  - Madeline Hohmeister
+  - Kailyn Seidling
+  - Lauren Beloate
+  - Vivian Chioma
+  - Sade Spencer
+  - Peter Kalivas
+  - Daniela Neuhofer
+  publisher: Addiction Biology
+  date: '2023-07-06'
+  link: https://doi.org/gvm64d
+  orcid: 0000-0002-3141-9571
+  constanza-garcia-keller: true
+  plugin: orcid.py
+  file: orcid.yaml

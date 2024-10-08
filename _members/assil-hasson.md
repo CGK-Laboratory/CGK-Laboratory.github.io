@@ -1,7 +1,7 @@
 ---
 name: Assil Hasson
 image: images/photo.jpg
-role: 
+role: alumni
 links:
   email:
   github: 

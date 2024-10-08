@@ -3,7 +3,7 @@
 
 $logo-big: 150px;
 $logo: 100%;
-$big-padding: 40px;
+$big-padding: 10px;
 $collapse: 700px;
 $sticky: true;
 
@@ -71,21 +71,21 @@ header a {
   display: none;
   position: relative;
   width: 30px;
-  height: 30px;
+  height: 40px;
   margin: 0;
-  color: var(--text);
-  appearance: none;
+  color: var(--primary);
+  appearance: menu-list-button;
   transition: background var(--transition);
 }
 
 .nav-toggle:after {
-  content: "\f0c9";
+  content: "☰";
   position: absolute;
   left: 50%;
   top: 50%;
-  color: var(--text);
+  color: var(--primary);
   font-size: 15px;
-  font-family: "Font Awesome 6 Free";
+  font-family: "Titillium Web";
   font-weight: 900;
   transform: translate(-50%, -50%);
 }
@@ -102,10 +102,15 @@ nav {
   gap: 10px;
   font-family: var(--heading);
   text-transform: uppercase;
+  padding: 0px 20px;
 }
 
 nav > a {
-  padding: 5px;
+  padding: 7px;
+  font-weight: 900;
+  font-size: 17px;
+  background-color: rgba(3, 2, 2, 0.7);
+  border-radius: 2px;        // Rounded corners
 }
 
 nav > a:hover {
@@ -133,18 +138,16 @@ header:not([data-big]) {
 }
 
 header[data-big] {
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  padding: $big-padding 20px;
-
+  justify-content: start;
+  align-items: end;
+  flex-direction: row;
+  padding: $big-padding 0;
+  @media (max-width: $collapse) {
+    flex-direction: column;
+    align-items: start;
+  }
   @if $sticky {
     top: unset;
-  }
-
-  .home {
-    flex-direction: column;
-    flex-grow: 0;
   }
 
   .logo {
@@ -164,4 +167,5 @@ header[data-big] {
   .subtitle {
     font-size: var(--large);
   }
+
 }
