@@ -22,6 +22,10 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
+alumni:
+  icon: fa-solid fa-people-group
+  description: Alumni
+
 programmer:
   icon: fa-solid fa-code
   description: Programmer
