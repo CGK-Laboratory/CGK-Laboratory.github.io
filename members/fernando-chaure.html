@@ -305,6 +305,8 @@
 
   <script src="/_scripts/tooltip.js"></script>
 
+  <script src="/_scripts/worm.js"></script>
+
 
 </head>
 
@@ -373,14 +375,8 @@
     
     
       
-        <a href="/research/" data-tooltip="Published works">
+        <a href="/research/" data-tooltip="Research and Techniques">
           Research
-        </a>
-      
-    
-      
-        <a href="/projects/" data-tooltip="Software, datasets, and more">
-          Projects
         </a>
       
     
@@ -391,8 +387,20 @@
       
     
       
-        <a href="/blog/" data-tooltip="Musings and miscellany">
-          Blog
+        <a href="/publications/" data-tooltip="Published works">
+          Publications
+        </a>
+      
+    
+      
+        <a href="/software/" data-tooltip="The software developed at GGKlab">
+          Software
+        </a>
+      
+    
+      
+        <a href="/news/" data-tooltip="Musings and miscellany">
+          News
         </a>
       
     
@@ -431,7 +439,7 @@
       <i class="icon fa-solid fa-chart-pie"></i>
     
 
-    <img src="/images/photo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+    <img src="/images/profiles/fernando-chaure.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
       <span class="portrait-name">
@@ -492,23 +500,6 @@
 
 
   <div class="button-wrapper">
-    <a class="button" href="https://orcid.org/https://orcid.org/0000-0002-8072-3879" data-tooltip="ORCID" data-style="bare" aria-label="ORCID">
-      <i class="icon fa-brands fa-orcid"></i>
-      
-        <span>ORCID</span>
-      
-    </a>
-  </div>
-
-<br>
-  
-    
-    
-    
-
-
-
-  <div class="button-wrapper">
     <a class="button" href="https://scholar.google.com/citations?user=Pvxv7FAAAAAJ&hl=en" data-tooltip="Google Scholar" data-style="bare" aria-label="Google Scholar">
       <i class="icon fa-brands fa-google"></i>
       
@@ -519,49 +510,66 @@
 
 <br>
   
-    
-    
-    
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="https://twitter.com/FerJChaure" data-tooltip="Twitter" data-style="bare" aria-label="Twitter">
-      <i class="icon fa-brands fa-twitter"></i>
-      
-        <span>Twitter</span>
-      
-    </a>
-  </div>
-
-<br>
-  
-    
-    
-    
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="mailto:fchaure@fi.uba.ar" data-tooltip="Email" data-style="bare" aria-label="Email">
-      <i class="icon fa-solid fa-envelope"></i>
-      
-        <span>Email</span>
-      
-    </a>
-  </div>
-
-<br>
-  
 </div>
 
 
 </div>
 
 
-<p>Fernando Julian Chaure is the Research Software Engineer at the CGKlab, where he develops software for data analysis with a focus on creating reproducible and open tools. Fer holds a degree in Electronics Engineering from the University of Buenos Aires, Argentina, where he is currently a PhD candidate. He is particularly interested in automating repetitive tasks to reduce human error and has recently been exploring Julia programming and agent-based modeling.</p>
+<p>Fernando Julian Chaure is the Research Software Engineer at the CGKlab, where he develops software for data analysis with a focus on creating reproducible and open tools. Fer holds a degree in Electronics Engineering from the University of Buenos Aires, Argentina, where he is currently a PhD candidate. He is particularly interested in automating repetitive tasks to reduce human error and has recently been exploring conformal prediction and agent-based modeling.</p>
 
 <p>Throughout his career, Fer has developed multiple tools for analyzing electrophysiological signals and tracking neurons under non-stationary conditions. His passion for learning and applying new technologies is reflected in his work, which consistently aims to create useful and efficient solutions for research challenges.</p>
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+<h2 id="inside-the-minds-of-our-team-">Inside the Minds of our Team <i class="icon fa-solid fa-comments"></i>
+</h2>
+
+<h5 id="what-animal-would-you-be">What animal would you be?</h5>
+
+<div class="float" data-flip="">
+  
+<style>
+    canvas {
+        width:100px;
+        height:100px;
+        border: 1px solid black;
+    }
+</style>
+
+<figure>
+<canvas id="wormCanvas" width="100" height="100"></canvas>
+<script src="/_scripts/worm.js"></script>
+  <figcaption>A worm simulation joke</figcaption>
+</figure>
+
+
+</div>
+
+<p>Given the current state of digital animal simulations, I’d have to settle for being a C. elegans like the ones at <a href="openworm.org">OpenWorm</a>. But hey, even a simple worm can be pretty cool when you’re digital! Although I would be a bit scared of being accidentally clicked.</p>
+
+<div class="float" data-clear="">
+  
+
+</div>
+
+<h5 id="what-superpower-would-you-have">What superpower would you have?</h5>
+
+<p>I would be able to know the name of every dog I meet.</p>
+
+<h5 id="what-would-your-alternative-career-be">What would your alternative career be?</h5>
+
+<p>I would be the owner of a bookstore-cafe, filled with physics books but lacking customers. While it might be like being at home, it would be a disaster for business.</p>
 
 
 
@@ -569,8 +577,8 @@
 
 
 <p class="center">
-  <a href="/research/?search=%22Fernando%20Julian%20Chaure%22%20">
-    Search for Fernando Julian Chaure's papers on the Research page
+  <a href="/publications/?search=%22Fernando%20Julian%20Chaure%22%20">
+    Search for Fernando Julian Chaure's papers on the Publications page
   </a>
 </p>
 
