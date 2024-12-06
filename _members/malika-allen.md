@@ -1,6 +1,6 @@
 ---
 name: Malika Allen
-image: images/profiles/malika_allen.jpeg
+image: images/profiles/malika_allen.png
 role: phd
 links:
   email: mallen@mcw.edu

@@ -1,6 +1,6 @@
 ---
 name: Jayashree Natarajan
-image: images/profiles/jayashree-natarajan.jpg
+image: images/profiles/jayashree-natarajan.png
 role: Research_Associate
 description: Research Associate I
 links:
