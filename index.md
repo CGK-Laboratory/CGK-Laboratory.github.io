@@ -62,6 +62,13 @@ The long-term goal of the Garcia Keller laboratory is to identify the neurologic
 
 {% capture text %}
 
+The Garcia Keller laboratory develops and shares open source tools to advance neuroscience research. We believe open source practices are essential for:
+
+- Reproducibility: Allowing others to verify and build upon our findings
+
+- Collaboration: Facilitating partnerships across research institutions
+
+- Accessibility: Reducing cost barriers for laboratories with limited resources
 
 {%
   include button.html

@@ -17,3 +17,12 @@
   constanza-garcia-keller: true
   plugin: orcid.py
   file: orcid.yaml
+
+- id: doi:10.5281/zenodo.14159877
+  type: source
+
+- id: doi:10.5281/zenodo.15380244
+  type: source
+
+
+

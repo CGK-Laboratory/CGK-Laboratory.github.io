@@ -210,3 +210,28 @@
   constanza-garcia-keller: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.5281/zenodo.14159877
+  title: 'CGK-Laboratory/CellSelect-3DMorph: Release v2.0.0'
+  authors:
+  - ' Fernando J. Chaure'
+  - ' CGKLaboratory'
+  - ' Juan Pablo Taborda Bejarano'
+  - ' ElisaYork'
+  publisher: Zenodo
+  date: '2024-11-14'
+  link: https://doi.org/g9qk7v
+  type: source
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.5281/zenodo.15380244
+  title: 'CGK-Laboratory/calcium_imaging_analysis_pipeline: Release v0.0.1'
+  authors:
+  - Fernando Julian Chaure
+  - ' Malika Allen'
+  - Constanza Garcia-Keller
+  publisher: Zenodo
+  date: '2025-05-10'
+  link: https://doi.org/g9qk7w
+  type: source
+  plugin: sources.py
+  file: sources.yaml

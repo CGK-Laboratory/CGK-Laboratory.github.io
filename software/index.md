@@ -10,7 +10,7 @@ nav:
 
 {% include search-info.html %}
 
-{% include list.html component="card" data="projects" style="rich" filters="category: ^(?!tools$)" %}
+{% include list.html component="card" data="projects" style="rich" %}
 
 {% include section.html %}
 

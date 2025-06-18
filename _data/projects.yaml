@@ -6,4 +6,13 @@
   description: CellSelect-3DMorph reconstructs cells from fluorescent pixel data, providing key parameters such as cell volume, territorial volume, ramification index, branch length, and the number of branches and endpoints. It builds on the 3D Morph code, adding the ability to exclude incomplete cells from analysis, ensuring accurate morphological calculations.
   repo: CGK-Laboratory/CellSelect-3DMorph
   tags:
-    - software
+
+
+- title: Calcium Imaging Data Pipeline
+  subtitle: A Python pipeline for automated and reproducible analysis
+  group: 
+  image: images/software/calcium_pipeline.png
+  link: https://github.com/CGK-Laboratory/calcium_imaging_analysis_pipeline
+  description: This pipeline reduces the space required to analyze calcium imaging data using the Inscopix Data Processing algorithms, allowing users to easily remove intermediate steps while leaving metadata to recompute them if necessary. It combines multiple functions used for cell extraction in a simple method call and can process multiple recordings together.
+  repo: CGK-Laboratory/calcium_imaging_analysis_pipeline
+  tags:

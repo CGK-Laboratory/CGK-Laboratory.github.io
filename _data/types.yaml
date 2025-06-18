@@ -26,13 +26,13 @@ alumni:
   icon: fa-solid fa-people-group
   description: Alumni
 
-programmer:
-  icon: fa-solid fa-code
-  description: Programmer
-
 research_software_engineer:
-  icon: fa-solid fa-chart-pie
+  icon: fa-solid fa-code
   description: Software Research Engineer
+
+tech_lead:
+  icon: fa-solid fa-microchip
+  description: Tech Lead
 
 mascot:
   icon: fa-solid fa-dog
