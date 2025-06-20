@@ -3,7 +3,7 @@ title: Welcoming UBA Engineering Students to CGKLab
 image: 
 author: fernando-chaure
 tags:
-  - Honors and Awards
+  - welcome
 ---
 
 We’re thrilled to host six Computer Engineering students from the University of Buenos Aires (UBA) as they complete their year-long Capstone Projects 💻
