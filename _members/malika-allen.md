@@ -2,6 +2,7 @@
 name: Malika Allen
 image: images/profiles/malika_allen.png
 role: phd
+group: team
 links:
   email: mallen@mcw.edu
   twitter: Malika_Allen

@@ -21,6 +21,10 @@ We have been exploring the molecular and cellular underpinnings of stress disord
 
 We show that a single traumatic event induces enduring cortico-striatal synaptic plasticity and increases the vulnerability to drug use and relapse. Preliminary data show that an increase in our studied immediate early gene in NAc is necessary for drug-reward association, and required for cocaine-reward behaviour. In addition, the studied gene has been involved in synaptic plasticity in NAc induced by drugs and stress. In this project, we proposed to use a short synthetic antisense oligonucleotide to specifically target this specific gene that could be a good target for PTSD and SUD therapies. 
 
+## Open Software for Reproducible Science
+
+The CGK Lab is dedicated to advancing open science through the development of robust, openly accessible computational tools that support reproducible and transparent research. Our work centers on building and maintaining open source software tailored for biological data analysis, empowering the broader scientific community to reuse, validate, and extend our methods. This approach reflects a growing movement in computational biology and systems neuroscience to democratize access to cutting-edge technologies and promote data-driven discovery. By prioritizing clarity, documentation, and interoperability, we aim to lower barriers to entry and ensure our tools can be reliably integrated across diverse research contexts. Our commitment to sharing well-engineered, sustainable software fosters a culture of collaboration and accelerates progress across disciplines.
+
 {% include section.html %}
 
 

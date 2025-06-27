@@ -18,8 +18,12 @@ phd:
   description: PhD Student
 
 undergrad:
-  icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+  icon: fa-solid fa-seedling
+  description: Undergraduate Researcher
+
+external-CS:
+  icon: fa-solid fa-terminal
+  description: External CS Student
 
 alumni:
   icon: fa-solid fa-people-group

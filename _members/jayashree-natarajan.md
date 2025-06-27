@@ -2,6 +2,7 @@
 name: Jayashree Natarajan
 image: images/profiles/jayashree-natarajan.png
 role: Research_Associate
+group: team
 description: Research Associate I
 links:
   email: jnatarajan@mcw.edu

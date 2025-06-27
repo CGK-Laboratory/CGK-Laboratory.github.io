@@ -9,8 +9,18 @@ nav:
 
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi' && role != 'alumni'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi' && group == 'team'" %}
 
+{% include section.html %}
+
+## Visiting and Rotation Students
+
+{% include list.html data="members" component="portrait" filter="group == 'visiting'" %}
+{% include section.html %}
+
+## External Master's Students - Computer Science 
+
+{% include list.html data="members" component="portrait" filter="role == 'external-CS'" %}
 {% include section.html %}
 
 ## Alumni
