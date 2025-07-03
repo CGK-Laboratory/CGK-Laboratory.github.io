@@ -24,5 +24,6 @@
 - id: doi:10.5281/zenodo.15380244
   type: source
 
-
+- id: doi:10.3390/cells14131014
+  type: paper
 
