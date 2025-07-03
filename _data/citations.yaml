@@ -14,8 +14,9 @@
   link: https://doi.org/g9r37n
   orcid: 0000-0002-3141-9571
   constanza-garcia-keller: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
 - id: doi:10.1111/adb.13286
   title: "\u0394<sup>9</sup>\u2010Tetrahydrocannabinol self\u2010administration induces\
     \ cell type\u2010specific adaptations in the nucleus accumbens core"
@@ -249,9 +250,5 @@
   date: '2025-05-10'
   link: https://doi.org/g9qk7w
   type: source
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:https://doi.org/10.3390/cells14131014
-  type: paper
   plugin: sources.py
   file: sources.yaml
