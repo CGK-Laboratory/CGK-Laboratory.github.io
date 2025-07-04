@@ -1,7 +1,10 @@
 ---
 name: Fernando Julian Chaure
+aliases:
+  - Fernando J. Chaure
+  - Fernando Julian Chaure
 image: images/profiles/fernando-chaure.jpg
-role: research_software_engineer
+role: tech_lead
 group: team
 links:
   github: ferchaure
@@ -9,9 +12,9 @@ links:
   google-scholar: Pvxv7FAAAAAJ&hl=en
 ---
 
-Fernando Julian Chaure is the Research Software Engineer at the CGKlab, where he develops software for data analysis with a focus on creating reproducible and open tools. Fer holds a PhD in Engineering from the University of Buenos Aires, Argentina. He is particularly interested in automating repetitive tasks to reduce human error and has recently been exploring conformal prediction and agent-based modeling.
+Fernando Julian Chaure began his work at CGKlab as a Research Software Engineer, developing tools for data analysis. He now serves as Technical Lead, where he leads the development of reproducible and open-source software for neuroscience research.
 
-Throughout his career, Fer has developed multiple tools for analyzing electrophysiological signals and tracking neurons under non-stationary conditions. His passion for learning and applying new technologies is reflected in his work, which consistently aims to create useful and efficient solutions for research challenges.
+Fernando holds a PhD in Engineering from the University of Buenos Aires, Argentina. His work has focused on creating analytical tools for electrophysiological signal processing and tracking neurons in non-stationary conditions. Driven by a passion for applying emerging technologies, he focuses on delivering practical, efficient solutions to complex research problems.
 
 {% include section.html %}
 

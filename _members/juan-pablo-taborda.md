@@ -1,7 +1,11 @@
 ---
 name: Juan Pablo Taborda Bejarano
 image: images/profiles/juan_taborda.png
+aliases:
+  - Juan Pablo Taborda
+  - Juan Pablo Taborda-Bejarano
 role: phd
+group: team
 links:
   email: jtaborda@mcw.edu 
   twitter: juanptaborda6 

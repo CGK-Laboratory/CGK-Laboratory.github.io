@@ -47,5 +47,19 @@ Dr. Garcia Keller joined the Medical College of Wisconsin as assistant professor
 - Neuropharmacology
 - System Neuroscience
 
-{% include section.html%}
 
+{% include section.html %}
+
+## Inside the Minds of our Team {% include icon.html icon="fa-solid fa-comments" %}
+
+##### What animal would you be?
+
+An andean condor, they are majestic and both parents incubate the eggs and take care of the chicks.
+
+##### What superpower would you have?
+
+I would love to be able to learn and understand things super fast.
+
+##### What would your alternative career be?
+
+Artist.

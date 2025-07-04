@@ -1,5 +1,4 @@
 # map general type to default/fallback icon, text, etc.
-
 # team member roles
 
 pi:
@@ -19,20 +18,24 @@ phd:
   description: PhD Student
 
 undergrad:
-  icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+  icon: fa-solid fa-seedling
+  description: Undergraduate Researcher
+
+external-CS:
+  icon: fa-solid fa-terminal
+  description: External CS Student
 
 alumni:
   icon: fa-solid fa-people-group
   description: Alumni
 
-programmer:
-  icon: fa-solid fa-code
-  description: Programmer
-
 research_software_engineer:
-  icon: fa-solid fa-chart-pie
+  icon: fa-solid fa-code
   description: Software Research Engineer
+
+tech_lead:
+  icon: fa-solid fa-microchip
+  description: Tech Lead
 
 mascot:
   icon: fa-solid fa-dog
@@ -107,6 +110,12 @@ twitter:
   text: Twitter
   tooltip: Twitter
   link: https://twitter.com/$VALUE
+
+bluesky:
+  icon: fa-brands fa-bluesky
+  text: Bluesky
+  tooltip: Bluesky
+  link: https://bsky.app/profile/$VALUE
 
 facebook:
   icon: fa-brands fa-facebook

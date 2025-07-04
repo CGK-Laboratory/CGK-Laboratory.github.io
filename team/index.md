@@ -8,16 +8,24 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!.*\b(pi|alumni)\b).*$" %}
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi' && group == 'team'" %}
 
+{% include section.html %}
+
+## Visiting and Rotation Students
+
+{% include list.html data="members" component="portrait" filter="group == 'visiting'" %}
+{% include section.html %}
+
+## External Master's Students - Computer Science 
+
+{% include list.html data="members" component="portrait" filter="role == 'external-CS'" %}
 {% include section.html %}
 
 ## Alumni
 
-{% include list.html  data="members"  component="portrait"  filters="role: alumni" %}
-
-
+{% include list.html  data="members"  component="portrait"  filter="role == 'alumni'" %}
 
 {% include section.html %}
 
