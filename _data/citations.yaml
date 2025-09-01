@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.20944/preprints202507.1563.v1
+  title: 'Decoding Microglial Morphology: Methodological Advances in Confocal Imaging
+    and Analysis'
+  authors:
+  - Juan Pablo Taborda-Bejarano
+  - David B. Nowak
+  - Fernando Chaure
+  - Malika L Allen
+  - Kathryn A Blek
+  - Stephen Walterhouse
+  - John R. Mantsch
+  - Constanza Garcia-Keller
+  publisher: MDPI AG
+  date: '2025-07-21'
+  link: https://doi.org/g9vchx
+  orcid: 0000-0002-3141-9571
+  constanza-garcia-keller: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/cells14131014
   title: 'Understanding Microglia in Mesocorticolimbic Circuits: Implications for
     the Study of Chronic Stress and Substance Use Disorders'
@@ -17,6 +36,22 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
+- id: doi:10.20944/preprints202505.0003.v1
+  title: 'Understanding Microglia in Mesocorticolimbic Circuits: Implications for
+    the Study of Chronic Stress and Substance Use Disorders'
+  authors:
+  - David B. Nowak
+  - Juan Pablo Taborda-Bejarano
+  - Fernando J Chaure
+  - John R. Mantsch
+  - Constanza Garcia-Keller
+  publisher: MDPI AG
+  date: '2025-05-02'
+  link: https://doi.org/g9s4hz
+  orcid: 0000-0002-3141-9571
+  constanza-garcia-keller: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/adb.13286
   title: "\u0394<sup>9</sup>\u2010Tetrahydrocannabinol self\u2010administration induces\
     \ cell type\u2010specific adaptations in the nucleus accumbens core"
@@ -99,7 +134,7 @@
   - Vivian Chioma
   - Sade Spencer
   - Peter Kalivas
-  publisher: Research Square Platform LLC
+  publisher: Springer Science and Business Media LLC
   date: '2021-09-27'
   link: https://doi.org/gvm64j
   orcid: 0000-0002-3141-9571
