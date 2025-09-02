@@ -11,4 +11,4 @@ I am excited to share my first 1st author publication in CGK lab. This work focu
 <!-- excerpt end -->
 
 
-The article is a collaborative effort between John Mantsch and Constanza Garcia Keller laboratories and its tittled "Characterizing Microglial Morphology: Methodological Advances in Confocal Imaging and Analysis". Give it a read: https://www.mdpi.com/2073-4409/14/17/1354
+The article is a collaborative effort between John Mantsch and Constanza Garcia Keller laboratories and its tittled "Characterizing Microglial Morphology: Methodological Advances in Confocal Imaging and Analysis". [Give it a read](https://www.mdpi.com/2073-4409/14/17/1354)
