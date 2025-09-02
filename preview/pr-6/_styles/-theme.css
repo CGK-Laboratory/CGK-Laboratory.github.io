@@ -1,0 +1,44 @@
+[data-dark=false] {
+  --primary: #De5795;
+  --secondary: #81B920;
+  --text: #2A1B52;
+  --background: #ffffff;
+  --background-alt: #Dce4E2;
+  --light-gray: #e0e0e0;
+  --gray: #808080;
+  --dark-gray: #404040;
+  --overlay: #00000020;
+}
+
+[data-dark=true] {
+  --primary: #81B920;
+  --secondary: #De5795;
+  --text: #ffffff;
+  --background: #181818;
+  --background-alt: #1c1c1c;
+  --light-gray: #404040;
+  --gray: #808080;
+  --dark-gray: #b0b0b0;
+  --overlay: #ffffff10;
+}
+
+:root {
+  --title: "Titillium Web", sans-serif;
+  --heading: "Titillium Web", sans-serif;
+  --body: "Titillium Web", sans-serif;
+  --code: "Roboto Mono", monospace;
+  --large: 1.2rem;
+  --xl: 1.4rem;
+  --xxl: 1.6rem;
+  --thin: 400;
+  --regular: 550;
+  --semi-bold: 650;
+  --bold: 800;
+  --spacing: 2;
+  --compact: 1.5;
+  --rounded: 8px;
+  --shadow: 0 0 10px 0 var(--overlay);
+  --transition: 0.2s ease;
+}
+
+/*# sourceMappingURL=-theme.css.map */
