@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3"
 gem "webrick", ">= 1.8.2"
 
-
+gem "nokogiri", ">= 1.18.9"
 gem "html-proofer", "~> 5.0"
 
 # plugins

@@ -40,20 +40,21 @@ $wrap: 800px;
   text-align: left;
 }
 
-.post-excerpt-text > * {
+.post-excerpt-text>* {
   margin: 0 !important;
 }
 
-.post-excerpt-text > a:first-child {
+.post-excerpt-text>a:first-child {
   width: 100%;
   font-weight: var(--semi-bold);
+  font-size: 1.3rem;
 }
 
-.post-excerpt-text > div {
+.post-excerpt-text>div {
   justify-content: flex-start;
 }
 
-.post-excerpt-text > p {
+.post-excerpt-text>p {
   width: 100%;
 }
 
