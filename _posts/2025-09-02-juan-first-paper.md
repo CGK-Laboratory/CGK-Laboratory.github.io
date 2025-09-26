@@ -1,6 +1,6 @@
 ---
 title: Juan's first 1st author publication
-image: 
+image: images/CGK_lab_wesite_ post.png
 author: juan-pablo-taborda
 tags:
   - papers
