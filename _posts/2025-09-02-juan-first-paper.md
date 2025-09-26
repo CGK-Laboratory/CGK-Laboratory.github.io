@@ -5,7 +5,7 @@ author: juan-pablo-taborda
 tags:
   - papers
 ---
-
+image: images/CGK_lab_wesite_ post.png
 <!-- excerpt start -->
 I am excited to share my first 1st author publication in CGK lab. This work focuses on specific imaging and analysis techniques for proper identification and interpretation of microglia morphological data! 
 <!-- excerpt end -->
