@@ -23,7 +23,7 @@ undergrad:
 
 external-CS:
   icon: fa-solid fa-terminal
-  description: External CS Student
+  description: Software Engineering Student
 
 alumni:
   icon: fa-solid fa-people-group

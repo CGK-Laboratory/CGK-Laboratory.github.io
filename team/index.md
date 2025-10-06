@@ -18,7 +18,7 @@ nav:
 {% include list.html data="members" component="portrait" filter="group == 'visiting'" %}
 {% include section.html %}
 
-## External Master's Students - Computer Science 
+## External Software Engineering Students
 
 {% include list.html data="members" component="portrait" filter="role == 'external-CS'" %}
 {% include section.html %}

@@ -18,7 +18,7 @@ A raccoon!
 
 ##### What superpower would you have?
 
-Photographic memory! I’d love to be able to hold onto all of my favorite memories (and it would help cut down on study time)
+Photographic memory! I’d love to be able to hold onto all of my favorite memories (and it would help cut down on study time).
 
 ##### What would your alternative career be?
 
