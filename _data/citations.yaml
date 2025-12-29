@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3390/cells15010032
+  title: DUSP5 Downregulation in Nucleus Accumbens Core Correlates with Cocaine-Induced
+    Maladaptive Synaptic Plasticity
+  authors:
+  - Juan Pablo Taborda-Bejarano
+  - Michael Meyerink
+  - Debbie C. Crans
+  - Ramani Ramchandran
+  - Constanza Garcia-Keller
+  publisher: Cells
+  date: '2025-12-23'
+  link: https://doi.org/hbg9d8
+  orcid: 0000-0002-3141-9571
+  constanza-garcia-keller: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/cells14171354
   title: 'Characterizing Microglial Morphology: Methodological Advances in Confocal
     Imaging and Analysis'
