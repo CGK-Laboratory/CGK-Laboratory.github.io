@@ -27,7 +27,7 @@ external-CS:
 
 alumni:
   icon: fa-solid fa-people-group
-  description: Alumni
+  description: Former Members
 
 research_software_engineer:
   icon: fa-solid fa-code

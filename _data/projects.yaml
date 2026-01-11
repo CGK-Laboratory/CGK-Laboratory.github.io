@@ -8,11 +8,31 @@
     - Matlab
     - Cell Morphology
     - User-interface
-    
 
+- title: Pycroglia
+  subtitle: A Python-based toolkit for quantitative 3D microglia morphology analysis
+  image: images/software/pycroglia.png
+  link: https://github.com/CGK-Laboratory/pycroglia
+  description: Pycroglia is a modern, open-source Python port of CellSelect-3DMorph that enables quantitative 3D microglia morphology analysis. By reconstructing individual cells voxel by voxel, it extracts morphological descriptors such as cell volume, territorial volume, ramification index, branch length, and number of branches and endpoints. It supports both GUI and library modes for interactive and automated workflows.
+  repo: CGK-Laboratory/pycroglia
+  tags:
+    - Python
+    - Cell Morphology
+    - User-interface
 
-- title: Calcium Imaging Data Pipeline
-  subtitle: A Python pipeline for automated and reproducible analysis
+- title: CIPipeline
+  subtitle: Reproducible, library-agnostic and customizable pipeline for calcium imaging analysis
+  image: images/software/cipipe.png
+  link: https://github.com/CGK-Laboratory/ci_pipe
+  description: CIPipeline is a Python library for building and running reproducible, library-agnostic calcium-imaging processing pipelines. It provides adapters for Inscopix and CaImAn, utilities, plotters and example Jupyter notebooks.
+  repo: CGK-Laboratory/ci_pipe
+  tags:
+    - Python
+    - Calcium Imaging
+    - Pipeline
+
+- title: Calcium Imaging Data Analysis
+  subtitle: Examples of automated analysis developed by the CGK Laboratory
   image: images/software/calcium_pipeline.png
   link: https://github.com/CGK-Laboratory/calcium_imaging_analysis_pipeline
   description: This pipeline reduces the space required to analyze calcium imaging data using the Inscopix Data Processing algorithms, allowing users to easily remove intermediate steps while leaving metadata to recompute them if necessary. It combines multiple functions used for cell extraction in a simple method call and can process multiple recordings together.
@@ -21,3 +41,4 @@
     - Python
     - Calcium Imaging
     - Pipeline
+

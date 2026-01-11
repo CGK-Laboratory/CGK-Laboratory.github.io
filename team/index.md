@@ -5,28 +5,47 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
 
+
+{% capture col1 %}
+# {% include icon.html icon="fa-solid fa-users" %}Team Members
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi' && group == 'team'" %}
+{% endcapture %}
 
+{% capture col2 %}
+# {% include icon.html icon="fa-solid fa-history" %}Former Team Members
+
+{% include list.html  data="members"  component="portrait"  filter="group == 'alumni'" %}
+
+{% endcapture %}
+
+{%
+  include cols.html
+  col1=col1
+  col2=col2
+%}
 {% include section.html %}
 
-## Visiting and Rotation Students
+{% capture col21 %}
+## {% include icon.html icon="fa-solid fa-briefcase" %}Visiting and Rotation Students
 
 {% include list.html data="members" component="portrait" filter="group == 'visiting'" %}
-{% include section.html %}
+{% endcapture %}
 
-## External Software Engineering Students
+{% capture col22 %}
+## {% include icon.html icon="fa-solid fa-laptop-code" %}Software Engineering Collaborators
 
 {% include list.html data="members" component="portrait" filter="role == 'external-CS'" %}
-{% include section.html %}
 
-## Alumni
+{% endcapture %}
 
-{% include list.html  data="members"  component="portrait"  filter="role == 'alumni'" %}
-
+{%
+  include cols.html
+  col1=col21
+  col2=col22
+%}
 {% include section.html %}
 
 # Some Pictures

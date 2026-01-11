@@ -1,7 +1,7 @@
 ---
 name: Ahmad Zyoud
 image: images/profiles/ahmad_zyoud.jpg
-role: alumni
+group: visiting
 links:
   github: Ahmad-Zyoud
 ---
