@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.20944/preprints202601.2405.v1
+  title: 'CIPipeline: A Reproducible and Extensible Pipeline Framework for Calcium
+    Imaging'
+  authors:
+  - Ahmad Zyoud
+  - Fernando Julian Chaure
+  - "Agust\xEDn Nicol\xE1s Gonzalez"
+  - "Iv\xE1n Loyarte"
+  - Nazarena Rueda
+  - "Joaqu\xEDn Singer"
+  - Constanza Garcia-Keller
+  publisher: MDPI AG
+  date: '2026-01-30'
+  link: https://doi.org/hbnzqw
+  orcid: 0000-0002-3141-9571
+  constanza-garcia-keller: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/cells15010032
   title: DUSP5 Downregulation in Nucleus Accumbens Core Correlates with Cocaine-Induced
     Maladaptive Synaptic Plasticity
