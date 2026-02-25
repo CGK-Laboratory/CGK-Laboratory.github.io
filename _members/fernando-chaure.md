@@ -10,6 +10,7 @@ links:
   github: ferchaure
   linkedin: fernando-julian-chaure
   google-scholar: Pvxv7FAAAAAJ&hl=en
+  orcid: 0000-0002-8072-3879
 ---
 
 Fernando Julian Chaure began his work at CGKlab as a Research Software Engineer, developing tools for data analysis. He now serves as Technical Lead, where he leads the development of reproducible and open-source software for neuroscience research.

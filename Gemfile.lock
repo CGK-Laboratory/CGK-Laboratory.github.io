@@ -140,7 +140,7 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-sitemap
   jekyll-spaceship
-  nokogiri (>= 1.18.9)
+  nokogiri (~> 1.18.9)
   webrick (>= 1.8.2)
 
 BUNDLED WITH
