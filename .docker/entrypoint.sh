@@ -4,6 +4,10 @@
 printf "\n\nContents:\n\n"
 ls
 
+# update gems and refresh Gemfile.lock on the host (via volume mount)
+printf "\n\nUpdating gems...\n\n"
+bundle update
+
 # run cite process
 python3 _cite/cite.py
 
