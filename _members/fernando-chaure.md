@@ -15,7 +15,7 @@ links:
 
 Fernando Julian Chaure began his work at CGKlab as a Research Software Engineer, developing tools for data analysis. He now serves as Technical Lead, where he leads the development of reproducible and open-source software for neuroscience research.
 
-Fernando holds a PhD in Engineering from the University of Buenos Aires, Argentina. His work has focused on creating analytical tools for electrophysiological signal processing and tracking neurons in non-stationary conditions. Driven by a passion for applying emerging technologies, he focuses on delivering practical, efficient solutions to complex research problems.
+Dr. Chaure holds a PhD in Engineering from the University of Buenos Aires, Argentina. His research has focused on the development of analytical methods for electrophysiological signal processing and the tracking of neuronal activity under non-stationary conditions. He currently works as a Machine Learning Engineer and serves as a Visiting Professor at Universidad de San Andrés. His professional interests lie at the intersection of machine learning, scientific computing, and the development of practical computational solutions for complex research challenges.
 
 {% include section.html %}
 

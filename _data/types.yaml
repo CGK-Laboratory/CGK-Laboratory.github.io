@@ -37,6 +37,10 @@ tech_lead:
   icon: fa-solid fa-microchip
   description: Tech Lead
 
+collaborator:
+  icon: fa-solid fa-user-plus
+  description: Collaborator
+
 mascot:
   icon: fa-solid fa-dog
   description: Mascot
