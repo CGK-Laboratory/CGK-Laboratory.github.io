@@ -12,3 +12,11 @@ I am excited to share my first 1st author publication in CGK lab. This work focu
 
 
 The article is a collaborative effort between John Mantsch and Constanza Garcia Keller laboratories and its tittled "Characterizing Microglial Morphology: Methodological Advances in Confocal Imaging and Analysis". [Give it a read](https://www.mdpi.com/2073-4409/14/17/1354)
+
+<div align="center">
+<img align="Left"  width="600" height="300" alt="CGK_lab_wesite_ post" src="https://github.com/user-attachments/assets/b19555e4-6cfe-43f7-b6ac-4141b198f60f" />
+</div>
+
+
+(A) Raw confocal image of microglia stained with IBA-1. (B) Reconstructed image using the chosen Otsu threshold (C)2D image showing the selected cells (D) Reconstructed single-cell images (i.e., circled cell) output by the software. Panels (1–4) show different reconstructions representing the various parameters and measurements provided by the software
+
